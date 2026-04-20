@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**mwenyantambika-lgtm/mwenyantambika-lgtm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hi there ,Im Mwenya Ntambika
+BSC Computer science Student at Mulungushi Univeristy,Zambia
+Aspiring Cybersecurity ,Cloud Security and Ai Specialist
+##Projects
+-Password Generator - Generates secure passwords with uppercase,lowercase,numbers and symbols.Built in java.
+##Currently learning 
+-Python
+-Java
+Data structures and Algorithm
+##Contact
+-Github:@mwenyantambika-lgtm
