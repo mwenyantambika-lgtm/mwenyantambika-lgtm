@@ -5,11 +5,11 @@ BSC Computer science Student at Mulungushi Univeristy,Zambia
 Aspiring Cybersecurity ,Cloud Security and Ai Specialist
 
 ## Projects-
--Password Generator  Generates secure passwords with uppercase,lowercase,numbers and symbols.Built in java.
+- Password Generator - Generates secure passwords with uppercase,lowercase,numbers and symbols.Built in java.
 
 ## Currently learning 
--Python
--Java
+- Python
+- Java
 
 
 ## Contact
