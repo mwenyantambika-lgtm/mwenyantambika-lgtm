@@ -6,6 +6,6 @@ Aspiring Cybersecurity ,Cloud Security and Ai Specialist
 ##Currently learning 
 -Python
 -Java
-Data structures and Algorithm
+-Data structures and Algorithm
 ##Contact
 -Github:@mwenyantambika-lgtm
